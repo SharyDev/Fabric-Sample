@@ -1,0 +1,2 @@
+organizations>fabric-ca>org2>registerPeer1Org1.sh
+docker>docker-compose-peer1org1.yaml
